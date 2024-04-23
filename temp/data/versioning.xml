@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>inet.detik</title>
+<link>http://inet.detik.com/</link>
+<description>Detik.com sindikasi</description>
+<image>
+<title>detikcom - detikInet</title>
+<link>http://inet.detik.com/</link>
+<url>http://rss.detik.com/images/rsslogo_detikcom.gif</url>
+</image>
+
+<item>
+<title>
+<![CDATA[ Mon, 25 May 2020 15:36:13 +0700]]>
+</title>
+<link>Versi 1.0.1</link>
+<description>
+<![CDATA[ Perbaikan Registrasi ]]>
+</description>
+<enclosure url="https://akcdn.detik.net.id/visual/2020/05/25/2a1d5b31-ffa6-4272-a3f1-1bd41ecc1bc2_43.jpeg" length="10240" type="image/jpeg"/>
+</item>
+
+
+</channel>
+</rss>

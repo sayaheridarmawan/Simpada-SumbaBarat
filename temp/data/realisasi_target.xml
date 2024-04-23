@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pajak author="Maribelajarcoding">
+	<persenpajakperkategori>
+        <id_kategori_pajak>2</id_kategori_pajak>
+		<nama_kategori>Pajak Hotel</nama_kategori>
+		<target>150000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>3</id_kategori_pajak>
+		<nama_kategori>Pajak Restoran</nama_kategori>
+		<target>205000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>4</id_kategori_pajak>
+		<nama_kategori>Pajak Hiburan</nama_kategori>
+		<target>80000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>5</id_kategori_pajak>
+		<nama_kategori>Pajak Reklame</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>6</id_kategori_pajak>
+		<nama_kategori>Pajak Penerangan Jalan</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>8</id_kategori_pajak>
+		<nama_kategori>Pajak Parkir</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>9</id_kategori_pajak>
+		<nama_kategori>Pajak Air Bawah Tanah</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+		<persenpajakperkategori>
+        <id_kategori_pajak>10</id_kategori_pajak>
+		<nama_kategori>Sarang Burung Walet</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>14</id_kategori_pajak>
+		<nama_kategori>PBB P2</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	<persenpajakperkategori>
+        <id_kategori_pajak>11</id_kategori_pajak>
+		<nama_kategori>BPHTB</nama_kategori>
+		<target>55000000000</target>
+		<total>2000000</total>
+    </persenpajakperkategori>
+	
+</pajak>
+

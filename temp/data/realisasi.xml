@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Akademik author="Maribelajarcoding">
+    <realisasi>
+        <harian>154988868</harian>
+        <bulanan>1059110466</bulanan>
+        <tahunan>210446965354</tahunan>
+    </realisasi>
+	 
+	<wajib_pajak>
+        <wp>9443</wp>
+        <op>19334</op>
+    </wajib_pajak>
+	
+	<piutang>
+        <piutang>700000000</piutang>
+    </piutang>
+	
+</Akademik>
